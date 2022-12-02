@@ -38,24 +38,6 @@
 
 <br/>
 
-<p>
-
-## 📝 Recent Projects
-### [ Using Loan Records to Predict Repayment value: ](https://github.com/gondiski/Loan_Repayment_Machine_Learning_Project)<br>
-Machine learning prediction model using deep neural network to predict a users repayment value using the past loan records stored by a financial institution. Data collected from a Sacco in the Nairobi Area.<br>
-Libraries Utilized: Keras, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn, Scipy
-
-### [ Nairobi County Housing Price Prediction: ](https://github.com/gondiski/Nairobi_County_Housing_Project)<br>
-Linear regression modeling for housing price prediction in Nairobi County, KE, Africa, which is the greater Nairobi Area. <br>
-Libraries Utilized: Keras, Pandas, Numpy, Matplotlib, Seaborn
-
-
-### [ Yelp ETL Project Analysis: ](https://github.com/gondiski/Yelp_API_ETL_Project)<br>
-EDA of Yelp API data for Flatiron School Data Science Immersive Program.<br>
-Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
-
-</p>
-
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 
